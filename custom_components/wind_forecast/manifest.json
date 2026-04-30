@@ -1,0 +1,11 @@
+{
+  "domain": "wind_forecast",
+  "name": "Wind Forecast",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/Saikoadv/wind_forecast",
+  "requirements": [],
+  "codeowners": ["@Saikoadv"],
+  "iot_class": "cloud_polling",
+  "homeassistant": "2024.1.0"
+}
