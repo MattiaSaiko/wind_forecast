@@ -3,9 +3,9 @@
   "name": "Wind Forecast",
   "version": "1.0.2",
   "config_flow": true,
-  "documentation": "https://github.com/Saikoadv/wind_forecast",
+  "documentation": "https://github.com/MattiaSaiko/wind_forecast",
   "requirements": [],
-  "codeowners": ["@Saikoadv"],
+  "codeowners": ["@MattiaSaiko"],
   "iot_class": "cloud_polling",
   "homeassistant": "2024.1.0"
 }
